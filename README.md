@@ -8,4 +8,4 @@ HabitFlow
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Journal 1: FanControl](/Journals/Journal1.md)
