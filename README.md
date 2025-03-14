@@ -4,7 +4,7 @@ I'm Sean Minami, and I'm a Computer Science student doing my last year at Chico 
 
 ## UX Team Project
 
-Coming soon.
+HabitFlow
 
 ## UX Journal
 
